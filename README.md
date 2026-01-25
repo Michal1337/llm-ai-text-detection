@@ -1,6 +1,7 @@
 # On the Effectiveness of LLM-Specific Fine-Tuning for Detecting AI-Generated Text
 
-Authors: `Michał Gromadzki`, `PhD in Computer Science, Anna Wróblewska` and `PhD in Linguistics, Agnieszka Kaliska`
+Authors: `Michał Gromadzki`, `PhD in Computer Science, Anna Wróblewska` and `PhD in Linguistics, Agnieszka Kaliska` \
+HF Dataset: https://huggingface.co/datasets/Majkel1337/Detect-AI 
 
 ![Results](./plots/grabs.png)
 
@@ -19,7 +20,6 @@ The following plot summarizes the performance of the developed models in disting
 1. `./logs/` - Training history for all experiments
 2. `./notebooks/` - Jupyter Notebooks used for development
 3. `./plots/` - Plots used in the thesis
-4. `./predictions/` - Prediction of all evaluated models on the test datasets
 5. `./src/` - Source code
 
 All Jupyter Notebooks were used for the development of the solutions. They may contain errors, unused plots, or experimental solutions.
